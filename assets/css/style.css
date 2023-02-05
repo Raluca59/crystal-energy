@@ -4,6 +4,23 @@
 .bg-color-name-title {
     background-color: rgb(82, 66, 94);
 }
+
+.ui-menu-color-home {
+    background-color: aqua;
+}
+
+.ui-menu-color-about  {
+    background-color: darkolivegreen;
+}
+
+.ui-menu-color-forum {
+    background-color: rgb(211, 151, 181);
+}
+
+.ui-menu-color-join {
+    background-color: blueviolet;
+}
+
 /*............................................Heading*/
 header {
     margin: 0;
@@ -36,4 +53,17 @@ header {
     margin-top: 20px;
     margin-bottom: 90px;
     color: aliceblue;
+}
+
+.list-inline-item:not(:last-child) {
+    margin: 0;
+}
+
+.menucontainer {
+    font-size: 0;
+}
+
+#nav li {
+    font-size: 14px;
+    padding: 0;
 }
