@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Dancing+Script&family=EB+Garamond&display=swap');
+
+/*............................................Colours*/
+.bg-color-name-title {
+    background-color: rgb(82, 66, 94);
+}
+/*............................................Heading*/
+header {
+    margin: 0;
+}
+
+.heading {
+    margin-left: 50px;
+}
+
+.logo {
+    background: url(../images/logo.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+}
+
+.title {
+    font-family: 'Amatic SC', sans-serif;
+    font-weight: 100;
+    font-size: 46px;
+    margin-top: 50px;
+    color: aliceblue;
+}
+
+.undertext {
+    font-family: 'Dancing Script', sans-serif;
+    font-weight: 200;
+    font-size: 28px;
+    margin-top: 20px;
+    margin-bottom: 90px;
+    color: aliceblue;
+}
