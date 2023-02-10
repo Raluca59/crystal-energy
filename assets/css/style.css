@@ -5,6 +5,10 @@
     background-color: rgb(122, 114, 138);
 }
 
+.bg-color-crystal-facts {
+    background-color: white;
+}
+
 .ui-menu-color-home {
     background-color: rgb(40, 151, 151);
 }
@@ -26,6 +30,13 @@ h1,h2,h3,h4 {
     margin: 0;
 }
 
+.heading-p {
+    margin: 120px;
+    font-family: 'EB Garamond', sans-serif;
+    font-weight: 300;
+    font-size: 24px;
+}
+
 .uppercase {
     text-transform: uppercase;
 }
@@ -34,6 +45,24 @@ h1,h2,h3,h4 {
     font-family: 'EB Garamond', sans-serif;
     font-weight: 300;
     color: #f8f8f8;
+}
+
+.row-table {
+    display: table;
+}
+
+.section-column {
+    display: table-cell;
+    padding-left: 0 30px 30px;
+    float: none;
+}
+
+.section-heading {
+    font-family: 'Dancing Script', sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 40px;
+    margin-left: 750px;
 }
 /*............................................Heading*/
 header {
